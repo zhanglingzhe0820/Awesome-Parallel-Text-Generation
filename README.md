@@ -58,7 +58,30 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 
 #### Decomposition-and-Fill
 
+| Paper      | Venue       | Code   |  
+|-----------|:----------------:|:--------------:| 
+| [PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries](https://arxiv.org/abs/2506.18728)  |  arxiv 2025  | - |
+| [Falcon: Faster and parallel inference of large language models through enhanced semi-autoregressive drafting and custom-designed decoding tree](https://ojs.aaai.org/index.php/AAAI/article/view/34566)  |  AAAI 2025  | [![Github](https://img.shields.io/github/stars/Bestpay-inc/Falcon?style=flat)](https://github.com/Bestpay-inc/Falcon) | 
+| [Navigating the Path of Writing: Outline-guided Text Generation with Large Language Models](https://arxiv.org/abs/2404.13919)  |  NAACL 2025  | - | 
+| [Skeleton-of-thought: Prompting llms for efficient parallel generation](https://arxiv.org/abs/2307.15337)  |  ICLR 2024  | [![Github](https://img.shields.io/github/stars/imagination-research/sot?style=flat)](https://github.com/imagination-research/sot) | 
+| [SPRINT: Enabling Interleaved Planning and Parallelized Execution in Reasoning Models](https://arxiv.org/abs/2506.05745)  |  arxiv 2025  | - | 
+
 #### Multiple Token Prediction
+
+| Paper      | Venue       | Code   |  
+|-----------|:----------------:|:--------------:| 
+| [L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models](https://arxiv.org/abs/2505.17505)  |  arxiv 2025  | - | 
+| [On multi-token prediction for efficient LLM inference](https://arxiv.org/abs/2502.09419)  |  arxiv 2025  | - | 
+| [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)  |  ICML 2024  | [![Github](https://img.shields.io/github/stars/FasterDecoding/Medusa?style=flat)](https://github.com/FasterDecoding/Medusa) | 
+| [Multi-Token Prediction Needs Registers](https://arxiv.org/abs/2505.10518)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/nasosger/MuToR?style=flat)](https://github.com/nasosger/MuToR) | 
+| [Blockwise Parallel Decoding for Deep Autoregressive Models](https://proceedings.neurips.cc/paper/2018/hash/c4127b9194fe8562c64dc0f5bf2c93bc-Abstract.html)  |  NeurIPS 2018  | - | 
+| [Pass: Parallel speculative sampling](https://arxiv.org/abs/2311.13581)  |  NeurIPS-ENLSP 2023  | - | 
+| [EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)  |  ICML 2024  | [![Github](https://img.shields.io/github/stars/SafeAILab/EAGLE?style=flat)](https://github.com/SafeAILab/EAGLE) | 
+| [Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential](https://arxiv.org/abs/2507.11851)  |  arxiv 2025  | - | 
+| [ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training](https://arxiv.org/abs/2001.04063)  |  EMNLP 2020  | [![Github](https://img.shields.io/github/stars/microsoft/ProphetNet?style=flat)](https://github.com/microsoft/ProphetNet) | 
+| [Better & faster large language models via multi-token prediction](https://arxiv.org/abs/2404.19737)  |  ICML 2024  | - | 
+| [Deepseek-v3 technical report](https://arxiv.org/abs/2412.19437)  |  arxiv 2024  | [![Github](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=flat)](https://github.com/deepseek-ai/DeepSeek-V3) | 
+| [MiMo: Unlocking the Reasoning Potential of Language Model--From Pretraining to Posttraining](https://arxiv.org/abs/2505.07608)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/xiaomimimo/MiMo?style=flat)](https://github.com/xiaomimimo/MiMo) | 
 
 ### Non-AR-Based
 
