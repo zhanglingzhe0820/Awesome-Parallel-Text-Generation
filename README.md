@@ -55,6 +55,9 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 | [SpecTr: Fast Speculative Decoding via Optimal Transport](https://arxiv.org/abs/2310.15141)  |  NeurIPS 2023  | - |
 | [Speed: speculative pipelined execution for efficient decoding](https://arxiv.org/abs/2310.12072)  |  NeurIPS-ENLSP 2023  | - |
 | [Swift: On-the-fly self-speculative decoding for llm inference acceleration](https://arxiv.org/abs/2410.06916)  |  ICLR 2025  | [![Github](https://img.shields.io/github/stars/hemingkx/SWIFT?style=flat)](https://github.com/hemingkx/SWIFT) |
+| [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891)  |  NeurIPS 2025  | [![Github](https://img.shields.io/github/stars/ruipeterpan/specreason?style=flat)](https://github.com/ruipeterpan/specreason) |
+| [Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573)  |  arXiv 2025  | [![Github](https://img.shields.io/github/stars/ruipeterpan/failfast?style=flat)](https://github.com/ruipeterpan/failfast) |
+
 
 #### Decomposition-and-Fill
 
