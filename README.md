@@ -57,6 +57,10 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 | [Swift: On-the-fly self-speculative decoding for llm inference acceleration](https://arxiv.org/abs/2410.06916)  |  ICLR 2025  | [![Github](https://img.shields.io/github/stars/hemingkx/SWIFT?style=flat)](https://github.com/hemingkx/SWIFT) |
 | [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891)  |  NeurIPS 2025  | [![Github](https://img.shields.io/github/stars/ruipeterpan/specreason?style=flat)](https://github.com/ruipeterpan/specreason) |
 | [Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573)  |  arXiv 2025  | [![Github](https://img.shields.io/github/stars/ruipeterpan/failfast?style=flat)](https://github.com/ruipeterpan/failfast) |
+| [Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/abs/2506.19830)  |  NeurIPS 2025  | [![Github](https://img.shields.io/github/stars/hao-ai-lab/LookaheadReasoning?style=flat)](https://github.com/hao-ai-lab/LookaheadReasoning) |
+| [CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs](https://arxiv.org/abs/2510.26843)  |  NeurIPS 2025  | - |
+| [Griffin: Effective token alignment for faster speculative decoding](https://arxiv.org/abs/2502.11018)  |  NeurIPS 2025  | [![Github](https://img.shields.io/github/stars/hsj576/GRIFFIN?style=flat)](https://github.com/hsj576/GRIFFIN) |
+| [STree: Speculative Tree Decoding for Hybrid State-Space Models](https://arxiv.org/abs/2505.14969)  |  NeurIPS 2025  | [![Github](https://img.shields.io/github/stars/wyc1997/stree?style=flat)](https://github.com/wyc1997/stree) |
 
 
 #### Decomposition-and-Fill
@@ -106,7 +110,9 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 | [Aligned cross entropy for non-autoregressive machine translation](https://proceedings.mlr.press/v119/ghazvininejad20a.html)  |  ICML 2020  | [![Github](https://img.shields.io/github/stars/m3yrin/aligned-cross-entropy?style=flat)](https://github.com/m3yrin/aligned-cross-entropy) | 
 | [ngram-OAXE: Phrase-based order-agnostic cross entropy for non-autoregressive machine translation](https://arxiv.org/abs/2210.03999)  |  COLING 2022  | [![Github](https://img.shields.io/github/stars/ltencent-ailab/machine-translation?style=flat)](https://github.com/tencent-ailab/machine-translation/COLING22_ngram-OAXE) | 
 | [Multi-granularity optimization for non-autoregressive translation](https://arxiv.org/abs/2210.11017)  |  EMNLP 2022  | [![Github](https://img.shields.io/github/stars/yafuly/MGMO-NAT?style=flat)](https://github.com/yafuly/MGMO-NAT) | 
-| [One reference is not enough: Diverse distillation with reference selection for non-autoregressive translation](https://arxiv.org/abs/2205.14333)  |  NAACL 2022  | [![Github](https://img.shields.io/github/stars/ictnlp/DDRS-NAT?style=flat)](https://github.com/ictnlp/DDRS-NAT) | 
+| [Multilingual Non-Autoregressive Machine Translation without Knowledge Distillation](https://aclanthology.org/2023.findings-ijcnlp.14.pdf)  |  IJCNLP-AACL 2023  | - |
+| [Self-Refine: Iterative Refinement with Self-Feedback](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html)  |  NeurIPS 2023  | [![Github](https://img.shields.io/github/stars/madaan/self-refine?style=flat)](https://github.com/madaan/self-refine) |
+| [Tree-Structured Non-Autoregressive Decoding for Sequence-to-Sequence Text Generation](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.327.pdf)  |  EMNLP 2025  | [![Github](https://img.shields.io/github/stars/jipy0222/TNAD?style=flat)](https://github.com/jipy0222/TNAD) |
 
 #### Masked Generation
 
@@ -148,6 +154,30 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 | [Dream 7B](https://arxiv.org/abs/2508.15487)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/DreamLM/Dream?style=flat)](https://github.com/DreamLM/Dream) | 
 | [DIFFPO: Diffusion-styled Preference Optimization for Efficient Inference-Time Alignment of Large Language Models](https://arxiv.org/abs/2503.04240)  |  ACL 2025  | [![Github](https://img.shields.io/github/stars/zjuruizhechen/DiffPO?style=flat)](https://github.com/zjuruizhechen/DiffPO) | 
 | [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/abs/2507.18578)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/Feng-Hong/WINO-DLLM?style=flat)](https://github.com/Feng-Hong/WINO-DLLM) |
+| [Dream-Coder 7B: An Open Diffusion Language Model for Code](https://arxiv.org/abs/2509.01142)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/DreamLM/Dream-Coder?style=flat)](https://github.com/DreamLM/Dream-Coder) |
+| [Spg: Sandwiched policy gradient for masked diffusion language models](https://arxiv.org/abs/2510.09541)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/facebookresearch/SPG?style=flat)](https://github.com/facebookresearch/SPG) |
+| [Revolutionizing reinforcement learning framework for diffusion large language models](https://arxiv.org/abs/2509.06949)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/Gen-Verse/dLLM-RL?style=flat)](https://github.com/Gen-Verse/dLLM-RL) |
+| [Diffusion llms can do faster-than-ar inference via discrete diffusion forcing](https://arxiv.org/abs/2508.09192)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/SJTU-DENG-Lab/Discrete-Diffusion-Forcing?style=flat)](https://github.com/SJTU-DENG-Lab/Discrete-Diffusion-Forcing) |
+| [WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference](https://arxiv.org/abs/2512.22737)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/Tencent/WeDLM?style=flat)](https://github.com/Tencent/WeDLM) |
+| [d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/THU-BPM/d-TreeRPO?style=flat)](https://github.com/THU-BPM/d-TreeRPO) |
+| [d2: Improved Techniques for Training Reasoning Diffusion Language Models](https://arxiv.org/abs/2509.21474)  |  arxiv 2025  | - |
+| [wd1: Weighted Policy Optimization for Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2507.08838)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/xiaohangt/wd1?style=flat)](https://github.com/xiaohangt/wd1) |
+| [Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2510.01544)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/Mid-Push/SAPO-LLaDA?style=flat)](https://github.com/Mid-Push/SAPO-LLaDA) |
+| [Improving reasoning for diffusion language models via group diffusion policy optimization](https://arxiv.org/abs/2510.08554)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/kevinrojas1499/GDPO?style=flat)](https://github.com/kevinrojas1499/GDPO) |
+| [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165)  |  arxiv 2026  | [![Github](https://img.shields.io/github/stars/LeapLabTHU/JustGRPO?style=flat)](https://github.com/LeapLabTHU/JustGRPO) |
+| [Principled rl for diffusion llms emerges from a sequence-level perspective](https://arxiv.org/abs/2512.03759)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/ML-GSAI/ESPO?style=flat)](https://github.com/ML-GSAI/ESPO) |
+| [Diffusion Language Models For Code Infilling Beyond Fixed-size Canvas](https://arxiv.org/abs/2602.01326)  |  arxiv 2026  | [![Github](https://img.shields.io/github/stars/DreamLM/DreamOn?style=flat)](https://github.com/DreamLM/DreamOn) |
+| [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/JetAstra/SDAR?style=flat)](https://github.com/JetAstra/SDAR) |
+| [Lopa: Scaling dllm inference via lookahead parallel decoding](https://arxiv.org/abs/2512.16229)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/SJTU-DENG-Lab/LoPA?style=flat)](https://github.com/SJTU-DENG-Lab/LoPA) |
+| [FAST-dLLM V2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/NVlabs/Fast-dLLM?style=flat)](https://github.com/NVlabs/Fast-dLLM) |
+| [d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation](https://arxiv.org/abs/2601.07568)  |  arxiv 2026  | [![Github](https://img.shields.io/github/stars/hao-ai-lab/d3LLM?style=flat)](https://github.com/hao-ai-lab/d3LLM) |
+| [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/czg1225/dParallel?style=flat)](https://github.com/czg1225/dParallel) |
+| [Diffusion language models know the answer before decoding](https://arxiv.org/abs/2508.19982)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/pixeli99/Prophet?style=flat)](https://github.com/pixeli99/Prophet) |
+| [Creditdecoding: Accelerating parallel decoding in diffusion large language models with trace credits](https://arxiv.org/abs/2510.06133)  |  arxiv 2025  | - |
+| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573)  |  ICLR 2025  | [![Github](https://img.shields.io/github/stars/kuleshov-group/bd3lms?style=flat)](https://github.com/kuleshov-group/bd3lms) |
+| [Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/abs/2509.04185)  |  arxiv 2025  | - |
+| [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://arxiv.org/abs/2509.24389)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat)](https://github.com/ML-GSAI/LLaDA) |
+| [dInfer: An Efficient Inference Framework for Diffusion Language Models](https://arxiv.org/abs/2510.08666)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/inclusionAI/dInfer?style=flat)](https://github.com/inclusionAI/dInfer) |
 
 #### Edit-Based Refinement
 
@@ -183,3 +213,6 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 | [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://arxiv.org/abs/2012.14583)  |  ICLR 2021  | [![Github](https://img.shields.io/github/stars/alphadl/LCNAT?style=flat)](https://github.com/alphadl/LCNAT) | 
 | [SlotRefine: A fast non-autoregressive model for joint intent detection and slot filling](https://arxiv.org/abs/2010.02693)  |  EMNLP 2020  | [![Github](https://img.shields.io/github/stars/moore3930/SlotRefine?style=flat)](https://github.com/moore3930/SlotRefine) | 
 | [Non-autoregressive dialog state tracking](https://arxiv.org/abs/2002.08024)  |  ICLR 2020  | [![Github](https://img.shields.io/github/stars/henryhungle/NADST?style=flat)](https://github.com/henryhungle/NADST) | 
+| [Unleashing the True Potential of LLMs: A Feedback-Triggered Self-Correction with Long-Term Multipath Decoding](https://arxiv.org/abs/2509.07676)  |  arxiv 2025  | - | 
+| [ProRefine: Inference-Time Prompt Refinement with Textual Feedback](https://arxiv.org/abs/2506.05305)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/deepakpandita57/ProRefine_public?style=flat)](https://github.com/deepakpandita57/ProRefine_public) | 
+| [A Probabilistic Inference Scaling Theory for LLM Self-Correction](https://arxiv.org/abs/2508.16456)  |  EMNLP 2025  | [![Github](https://img.shields.io/github/stars/probabilistic-inference-scaling/probabilistic-inference-scaling?style=flat)](https://github.com/probabilistic-inference-scaling/probabilistic-inference-scaling) | 
