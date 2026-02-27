@@ -178,6 +178,7 @@ The first comprehensive survey for Parallel Text Generation Methods. [[PDF](http
 | [Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/abs/2509.04185)  |  arxiv 2025  | - |
 | [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://arxiv.org/abs/2509.24389)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=flat)](https://github.com/ML-GSAI/LLaDA) |
 | [dInfer: An Efficient Inference Framework for Diffusion Language Models](https://arxiv.org/abs/2510.08666)  |  arxiv 2025  | [![Github](https://img.shields.io/github/stars/inclusionAI/dInfer?style=flat)](https://github.com/inclusionAI/dInfer) |
+| [ParallelBench: Understanding the Trade-offs of Parallel Decoding in Diffusion LLMs](https://arxiv.org/abs/2510.04767)  |  ICLR 2026  | [![Github](https://img.shields.io/github/stars/furiosa-ai/ParallelBench?style=flat)](https://github.com/furiosa-ai/ParallelBench) |
 
 #### Edit-Based Refinement
 
