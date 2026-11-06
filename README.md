@@ -263,6 +263,7 @@ This category includes masked-token generation, diffusion formulations, and thei
 | [Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622) | arXiv 2025 | — |
 | [Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models](https://arxiv.org/abs/2602.19619) | arXiv 2026 | — |
 | [Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593) | arXiv 2026 | — |
+| [Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://aclanthology.org/2026.acl-long.311/) | ACL 2026 | [![Github](https://img.shields.io/github/stars/NEUIR/Uncode?style=flat)](https://github.com/NEUIR/Uncode) |
 
 ##### Related Foundations
 
